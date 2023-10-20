@@ -1,0 +1,32 @@
+#websiteTitle {
+    font-size: 128px;
+    color:deepskyblue;
+    font-weight: 200;
+}
+
+.container {
+    display: inline-block;
+    width: 600px;
+    border: 2px black solid;
+    padding: 50px 20px;
+}
+
+#first {
+    display: inline-block;
+}
+
+#second {
+    font-size: 28px;
+}
+
+.big {
+    font-size: 48px;
+}
+
+.wow{
+    color: red;
+    font-weight: 800;
+}
+
+
+ 
